@@ -8,7 +8,7 @@ learning PYTHON
 
 * 🌍  I'm based in Belarus
 * ✉️  You can contact me at [kileddy@mail.ru](mailto:kileddy@mail.ru)
-* 🧠  I'm learning python , frameworks : telegramAPI , selenium
+* 🧠  I'm learning python
 * ⚡  18 years old
 
 ### Skills
